@@ -1,92 +1,91 @@
-![Darshan Aher Banner](https://your-banner-image-link.com) 
-# 👋 Hello, I’m Darshan Aher
+![Darshan Aher Banner](https://your-image-link.com) <!-- Replace with your banner image URL -->
 
-🚀 Data Scientist | 💡 Model Explainability Enthusiast | 🧠 Real-time AI Systems Builder  
-I architect machine learning systems that don’t just predict — they **explain**, **scale**, and **work in the wild**.
+# 👋 Hello! I'm **Darshan Aher**
 
----
+🎯 **Data Scientist** | 🤖 **Machine Learning Engineer** | 📊 **Model Interpretability Advocate** | 🎥 **Video Analytics Expert**
 
-## 🧭 About Me
-
-I'm a **results-driven Data Scientist** with 4+ years of experience turning unstructured data into actionable intelligence through **machine learning**, **deep learning**, and **edge-deployable real-time systems**.
-
-Whether it's port automation using YOLO + OCR or GPT-powered document intelligence, I believe in building solutions that are both **powerful and interpretable**.
-
-🧩 **I specialize in:**
-- End-to-end ML systems: from data ingestion to live deployment
-- Real-time computer vision (YOLOv11, PaddleOCR, OpenCV, DeepSORT)
-- Explainable ML with SHAP, LIME, Statsmodels
-- NLP + LLMs for semantic search and document QA
-- Robust backend APIs with FastAPI/Flask & SQL-based logic
+I'm passionate about building scalable, explainable, and real-time AI systems — especially in **Computer Vision**, **OCR**, and **LLMs** — and deploying them across challenging environments using **CUDA**, **multi-threading**, and **edge hardware**.
 
 ---
 
-## 🛠️ My Toolkit
+## 🧠 Core Interests
 
-**Languages:**  
-Python, SQL, Bash, DAX  
-
-**ML & CV Frameworks:**  
-YOLOv11/v8, Scikit-learn, TensorFlow, XGBoost, PaddleOCR, EasyOCR, Keras, MLxtend  
-
-**Model Explainability:**  
-SHAP, LIME, Statsmodels, GeoText, SpaCy  
-
-**NLP & LLMs:**  
-Sentence Transformers, LlamaIndex, Groq LLaMA-3, OpenAI GPT-4 Vision, TF-IDF, Word2Vec  
-
-**Deployment & DevOps:**  
-FastAPI, Flask, Docker, Raspberry Pi, Threading, AsyncIO, RESTful APIs  
-
-**Databases & Search:**  
-MySQL, SQLite, Semantic Search, Regex + Structured Parsing  
-
-**Data Viz & BI Tools:**  
-Power BI, Tableau, Plotly, Matplotlib, Seaborn, Yellowbrick
+- 🧠 Explainable Machine Learning (SHAP, LIME, Statsmodels)
+- ⚙️ Real-time Computer Vision (YOLOv11, PaddleOCR, DeepSORT)
+- 📦 Edge Deployment (Raspberry Pi, OpenCV, FastAPI)
+- 💬 Document Intelligence using GPT-4 Vision + Semantic Search
+- 🚀 CUDA-accelerated training of detection and recognition models
+- 📊 Human-interpretable decision-making at scale
 
 ---
 
-## 🔍 Featured Projects
+## 🧰 Skills & Technologies
 
-### 🔹 ANPR System @ Chennai Port  
-Built a **24/7 live number plate recognition system** using YOLOv11 + PaddleOCR + DeepSORT, deployed on Raspberry Pi, integrating real-time gate/lane info & sync to backend APIs in under 2 seconds.
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### 🔹 CNRS: Container Number Recognition  
-Developed a **YOLOv11-based detection + OCR engine** to extract container numbers from real-time video feeds with degraded visibility. Scalable & port-ready with 80% faster identification.
+### 🔎 Machine Learning & Explainability
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC1C24?style=flat&logo=readthedocs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/-SHAP-000000?style=flat&logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/-LIME-16A085?style=flat&logo=python&logoColor=white)
 
-### 🔹 Model Explainability in Credit Risk  
-Created multiclass models for credit scoring with **threshold tuning**, **cost alignment**, and **SHAP/LIME insights** to support responsible AI and improve financial decisions.
+### 🖼️ Computer Vision & OCR
+![YOLO](https://img.shields.io/badge/-YOLOv11-212121?style=flat&logo=openCV&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/-PaddleOCR-00599C?style=flat&logo=paddlepaddle&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/-EasyOCR-FFBB00?style=flat&logo=python&logoColor=black)
 
-### 🔹 DND Platform: Document Intelligence  
-Designed a document & visiting card intelligence system using **EasyOCR + GPT-4 Vision + LLM QA**, with built-in **semantic search** and **entity extraction** from 10,000+ docs.
+### 🌐 APIs & Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
----
+### ⚙️ Deployment & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanaher&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanaher&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Currently Exploring
-
-- Explainability for ensemble & neural models (esp. SHAP + DL)
-- Optimization of real-time CV models for **edge devices**
-- Designing **LLM-powered decision agents** for enterprise use
-- Advanced streaming and **multi-threaded inference systems**
-
----
-
-## 🤝 Let’s Connect
-
-- 📧 [darshanaher.ds@gmail.com](mailto:darshanaher.ds@gmail.com)
-- 🌐 [Medium](https://medium.com/@aher.darshs)
-- 💼 [GitHub](https://github.com/DarshAher)
-- 📲 [WhatsApp Me](https://wa.me/+919423091166)
+### 📊 Visualization & Reporting
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ---
 
-> *“A good model predicts. A great model explains.”*  
-> — Let’s build intelligent, interpretable systems that people can trust.
+## 📚 Current Focus
+
+- Refining SHAP + LIME integrations in production-grade systems  
+- Improving inference speed on **edge devices using multithreading & async IO**  
+- Leveraging GPT-4 Vision & LLM pipelines for document QA  
+- Building scalable pipelines that combine **real-time detection + semantic reasoning**
+
+---
+
+## 🔄 My Learning Ethos
+
+> "Great AI isn't just accurate — it’s explainable, deployable, and accessible."  
+
+Every project I take on is an opportunity to learn deeply, simplify complexity, and create tools that people can trust and use.
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [darshanaher.ds@gmail.com](mailto:darshanaher.ds@gmail.com)  
+- 📝 Medium: [@aher.darshs](https://medium.com/@aher.darshs)  
+- 💼 GitHub: [github.com/DarshAher](https://github.com/DarshAher)  
+- 💬 WhatsApp: [+91 9423091166](https://wa.me/919423091166)
+
+---
+
+## 📊 GitHub Stats
+
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanaher&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanaher&layout=compact&theme=radical)
+
+---
