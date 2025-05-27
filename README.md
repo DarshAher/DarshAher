@@ -1,4 +1,4 @@
-![Darshan Aher Banner](https://your-image-link.com)
+![Darshan Aher Banner](https://i.imgur.com/XuVPMJj.png)
 
 <h1 align="center">👋 Hi, I'm <strong>Darshan Aher</strong></h1>
 <p align="center">A Data Scientist from India 🇮🇳</p>
