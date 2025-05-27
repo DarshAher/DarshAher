@@ -1,16 +1,21 @@
-## Hi there 👋
+![Header Image](https://your-image-link.com/banner.png)
 
-<!--
-**DarshAher/DarshAher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Darshan Aher
 
-Here are some ideas to get you started:
+🚀 A Data Scientist passionate about building intelligent systems and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌱 I’m currently exploring **AI, CV, and real-time Edge deployments**
+- 🛠️ Skilled in: Python, ML, Deep Learning, FastAPI, YOLO, PaddleOCR
+- 🔍 Currently working on: Smart Parking, ANPR, and Container Recognition systems
+- 🤝 Open to collaborate on impactful AI/ML projects and startups
+
+## 📫 Contact Me
+
+- 📧 Email: darshanaher.ds@gmail.com
+- 🌐 Portfolio: [darshanaher.github.io](https://darshanaher.github.io)
+
+## 📊 GitHub Stats
+
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanaher&show_icons=true&theme=radical)
